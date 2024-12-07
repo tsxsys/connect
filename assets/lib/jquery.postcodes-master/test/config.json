@@ -1,0 +1,46 @@
+{
+  "jqueryBuilds": [
+    "1.9.1",
+    "1.10.2",
+    "1.11.2",
+    "2.0.3",
+    "2.1.3",
+    "2.2.3",
+    "3.0.0",
+    "3.1.1",
+    "3.2.1"
+  ],
+  "testBrowsers" : [{
+    "browserName": "chrome",
+    "platform": "WIN8"
+  }, {
+    "browserName": "firefox",
+    "platform": "WIN8"
+  }, {
+    "browserName": "opera",
+    "platform": "WIN7"
+  }, {
+    "browserName": "internet explorer",
+    "platform": "WIN8.1",
+    "version": "11"
+  }, {
+    "browserName": "internet explorer",
+    "platform": "WIN8",
+    "version": "10"
+  }, {
+    "browserName": "internet explorer",
+    "platform": "WIN7",
+    "version": "9"
+  }, {
+    "browserName": "internet explorer",
+    "platform": "WIN7",
+    "version": "8"
+  }, {
+    "browserName": "internet explorer",
+    "platform": "XP",
+    "version": "7"
+  }, {
+    "browserName": "safari",
+    "platform": "OS X 10.9"
+  }]
+}

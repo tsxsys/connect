@@ -1,0 +1,105 @@
+successfully uploaded avatar5.png-----X:\console/modules/file_server/contracts/62e1d81b1af74e5349bdfea84e3f75f37ada7de4.png
+Error does not exist
+Error does not exist
+Error does not exist
+Error3183197.jpg does not exist
+Error3183197.jpg does not exist
+error LC60QSG-A-En1.pdf access is false
+successfully uploaded LC60QSG-A-En1.pdf-----X:\console/modules/file_server/contracts/feb44afff6e24f1a6ec065b92b607023fa83ee5d.pdf
+successfully uploaded 62e1d81b1af74e5349bdfea84e3f75f37ada7de4.png-----X:\console/modules/file_server/contracts/126bb8fbf8ade913faed4059719ec91a29c07e64.png
+successfully uploaded e7d1746f1449557e6c6e7fce0a785b4ef97be843.jpg-----X:\console/modules/file_server/contracts/4aeda9a716651401efdeeb7b290afc3ab457e969.jpg
+successfully uploaded feb44afff6e24f1a6ec065b92b607023fa83ee5d.pdf-----X:\console/modules/file_server/contracts/9bf8f6fd19a7bbb130ea7483c6b2351f228d4d03.pdf
+successfully uploaded 3fce675940340dbd89763949ee79461ef6890943.jpg-----X:\console/modules/file_server/contracts/f97fea5c3ed5eccf90ca8291d29fcecf5f857842.jpg
+Error7f5399e50489cb37f6fbd94144728ec5b1599dc4 does not exist
+Error7f5399e50489cb37f6fbd94144728ec5b1599dc4 does not exist
+Error7f5399e50489cb37f6fbd94144728ec5b1599dc4 does not exist
+Error7f5399e50489cb37f6fbd94144728ec5b1599dc4 does not exist
+Error::2023-07-11 21:04:26 X:\console/modules/file_server/contracts/7f5399e50489cb37f6fbd94144728ec5b1599dc4.jpg does not exist
+successfully uploaded Corona-CorQSGHHT-A-Fr1.pdf-----X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf
+successfully uploaded Corona-CorQSGPC-B-En1.pdf-----X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf
+successfully uploaded Corona-CorQSGPC-B-Fr1.pdf-----X:\console/modules/file_server/contracts/e2ce5b3f59ccc852d9697feda7ebcb16ca9977ad.pdf
+successfully uploaded EclipseHHTA-GERMAN.pdf-----X:\console/modules/file_server/contracts/71a648254f9a9f7d9f4b163672db4263fb4ea512.pdf
+Error::2023-07-12 00:35:34 X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf does not exist
+Error::2023-07-12 00:35:43 X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf does not exist
+Error::2023-07-12 00:35:45 X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf does not exist
+Error::2023-07-12 00:35:47 X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf does not exist
+Error::2023-07-12 00:35:48 X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf does not exist
+Error::2023-07-12 00:35:48 X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf does not exist
+Error::2023-07-12 00:36:10 X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf does not exist
+Error::2023-07-12 00:36:11 X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf does not exist
+successfully uploaded avatar.png-----X:\console/modules/file_server/contracts/ad35425c80f293cbc91bdef378876431b0b8a746.png
+successfully uploaded avatar2.png-----X:\console/modules/file_server/contracts/f2f5495929ddffb95e0943409ff2c5c441aad520.png
+successfully uploaded avatar3.png-----X:\console/modules/file_server/contracts/c00ebcdadd2d84785318109bba1a6f04e16894f6.png
+successfully uploaded 3183197.jpg-----X:\console/modules/file_server/contracts/3073b5b4f4204e61b653e2476b8a82a637e27973.jpg
+successfully uploaded 17020470.jpg-----X:\console/modules/file_server/contracts/f1f1048f9830f1645fa5b7aff8b5c80ac9923e28.jpg
+successfully uploaded 3183197.jpg-----X:\console/modules/file_server/contracts/5b8a81f59e8f317b25b9790f5af14c96f5c1d68a.jpg
+Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ad35425c80f293cbc91bdef378876431b0b8a746' in 'where clause'
+Successfully deleted::2023-07-12 10:43:12 f2f5495929ddffb95e0943409ff2c5c441aad520-----X:\console/modules/file_server/contracts/f2f5495929ddffb95e0943409ff2c5c441aad520.png
+Successfully deleted::2023-07-12 10:56:08 c00ebcdadd2d84785318109bba1a6f04e16894f6-----X:\console/modules/file_server/contracts/c00ebcdadd2d84785318109bba1a6f04e16894f6.png
+Successfully deleted::2023-07-12 10:57:40 ad35425c80f293cbc91bdef378876431b0b8a746-----X:\console/modules/file_server/contracts/ad35425c80f293cbc91bdef378876431b0b8a746.png
+Successfully deleted::2023-07-12 10:59:34 f1f1048f9830f1645fa5b7aff8b5c80ac9923e28-----X:\console/modules/file_server/contracts/f1f1048f9830f1645fa5b7aff8b5c80ac9923e28.jpg
+Successfully deleted::2023-07-12 11:08:01 3073b5b4f4204e61b653e2476b8a82a637e27973-----X:\console/modules/file_server/contracts/3073b5b4f4204e61b653e2476b8a82a637e27973.jpg
+successfully uploaded avatar.png-----X:\console/modules/file_server/contracts/777d16000176c19e845c2506f3146b8fb6c99794.png
+successfully uploaded avatar2.png-----X:\console/modules/file_server/contracts/1050ca31c399a1d47d2dd1cdab48858f0edeb2d6.png
+successfully uploaded avatar3.png-----X:\console/modules/file_server/contracts/1e46a2d4ce62da67c9a83ebe17952e1d1b8282f9.png
+successfully uploaded avatar4.png-----X:\console/modules/file_server/contracts/649acd5c52d3c01f4dea0ad86c1eecddb2752ba0.png
+successfully uploaded avatar5.png-----X:\console/modules/file_server/contracts/7f6539501b6af513256448f3d62a8af29217716b.png
+Successfully deleted::2023-07-12 11:14:21 5b8a81f59e8f317b25b9790f5af14c96f5c1d68a-----X:\console/modules/file_server/contracts/5b8a81f59e8f317b25b9790f5af14c96f5c1d68a.jpg
+Successfully deleted::2023-07-12 11:14:33 1e46a2d4ce62da67c9a83ebe17952e1d1b8282f9-----X:\console/modules/file_server/contracts/1e46a2d4ce62da67c9a83ebe17952e1d1b8282f9.png
+Successfully deleted::2023-07-12 11:17:09 649acd5c52d3c01f4dea0ad86c1eecddb2752ba0-----X:\console/modules/file_server/contracts/649acd5c52d3c01f4dea0ad86c1eecddb2752ba0.png
+Successfully deleted::2023-07-12 11:21:57 1050ca31c399a1d47d2dd1cdab48858f0edeb2d6-----X:\console/modules/file_server/contracts/1050ca31c399a1d47d2dd1cdab48858f0edeb2d6.png
+Successfully deleted::2023-07-12 11:22:02 777d16000176c19e845c2506f3146b8fb6c99794-----X:\console/modules/file_server/contracts/777d16000176c19e845c2506f3146b8fb6c99794.png
+Successfully deleted::2023-07-12 11:22:07 7f6539501b6af513256448f3d62a8af29217716b-----X:\console/modules/file_server/contracts/7f6539501b6af513256448f3d62a8af29217716b.png
+successfully uploaded AdminLTELogo.png-----X:\console/modules/file_server/contracts/4fcd7771e311364e4a4e2f7dd739deece5e1e6c2.png
+successfully uploaded avatar.png-----X:\console/modules/file_server/contracts/f058022a3e9971bc4797c41b8596627c9bfc1639.png
+successfully uploaded avatar2.png-----X:\console/modules/file_server/contracts/890848ff76de830d70f1657ce9295637cb79ae50.png
+successfully uploaded avatar3.png-----X:\console/modules/file_server/contracts/6508b0e39cff41066aa640a317a038123c42cc98.png
+successfully uploaded avatar4.png-----X:\console/modules/file_server/contracts/24660281443beed01d4dcfa841e97a34e7262f21.png
+successfully uploaded avatar5.png-----X:\console/modules/file_server/contracts/05fe8e3e2b94daccb1c0d3af7b97d42428f46a53.png
+successfully uploaded boxed-bg.jpg-----X:\console/modules/file_server/contracts/88cd7481e452cdff756f0971812d5f37fdba1e7c.jpg
+successfully uploaded boxed-bg.png-----X:\console/modules/file_server/contracts/fc42c3836457b8f93928caeb8a1efe2eede90f60.png
+successfully uploaded default-150x150.png-----X:\console/modules/file_server/contracts/49eee5b4309d7e2ce304c528bbab9393e2ddbdaa.png
+successfully uploaded icons.png-----X:\console/modules/file_server/contracts/3274c58e10e259ea32bc43ad7fbd5acbedca5a48.png
+successfully uploaded photo1.png-----X:\console/modules/file_server/contracts/b416a393cf2c21822144429a2924b352d5b587df.png
+successfully uploaded photo2.png-----X:\console/modules/file_server/contracts/8a0668e3e47fa9949ebd312f0ebfad06437954ec.png
+successfully uploaded photo3.jpg-----X:\console/modules/file_server/contracts/8e43aff7cfec6c0b0d51d07259bc72c3ccd6cd64.jpg
+successfully uploaded photo4.jpg-----X:\console/modules/file_server/contracts/1b299854202342a1447b67c5e041344c87f8f7a5.jpg
+successfully uploaded prod-1.jpg-----X:\console/modules/file_server/contracts/4c2c2c6b100702b9824d08826184be209537b940.jpg
+successfully uploaded prod-2.jpg-----X:\console/modules/file_server/contracts/ae6646b3e34d08218bf354c73ec7c982728d4dc8.jpg
+successfully uploaded prod-3.jpg-----X:\console/modules/file_server/contracts/597edd2f9030442b6fd0a6583556aa50aedf130a.jpg
+Successfully deleted::2023-07-12 11:23:21 f058022a3e9971bc4797c41b8596627c9bfc1639-----X:\console/modules/file_server/contracts/f058022a3e9971bc4797c41b8596627c9bfc1639.png
+Successfully deleted::2023-07-12 11:23:30 890848ff76de830d70f1657ce9295637cb79ae50-----X:\console/modules/file_server/contracts/890848ff76de830d70f1657ce9295637cb79ae50.png
+Successfully deleted::2023-07-12 11:23:34 6508b0e39cff41066aa640a317a038123c42cc98-----X:\console/modules/file_server/contracts/6508b0e39cff41066aa640a317a038123c42cc98.png
+Successfully deleted::2023-07-12 11:23:37 24660281443beed01d4dcfa841e97a34e7262f21-----X:\console/modules/file_server/contracts/24660281443beed01d4dcfa841e97a34e7262f21.png
+Successfully deleted::2023-07-12 11:23:41 1b299854202342a1447b67c5e041344c87f8f7a5-----X:\console/modules/file_server/contracts/1b299854202342a1447b67c5e041344c87f8f7a5.jpg
+Successfully deleted::2023-07-13 00:36:42 4fcd7771e311364e4a4e2f7dd739deece5e1e6c2-----X:\console/modules/file_server/contracts/4fcd7771e311364e4a4e2f7dd739deece5e1e6c2.png
+Successfully deleted::2023-07-13 00:36:54 fc42c3836457b8f93928caeb8a1efe2eede90f60-----X:\console/modules/file_server/contracts/fc42c3836457b8f93928caeb8a1efe2eede90f60.png
+Successfully deleted::2023-07-13 00:37:05 88cd7481e452cdff756f0971812d5f37fdba1e7c-----X:\console/modules/file_server/contracts/88cd7481e452cdff756f0971812d5f37fdba1e7c.jpg
+Successfully deleted::2023-07-13 00:37:13 8e43aff7cfec6c0b0d51d07259bc72c3ccd6cd64-----X:\console/modules/file_server/contracts/8e43aff7cfec6c0b0d51d07259bc72c3ccd6cd64.jpg
+Successfully deleted::2023-07-13 00:37:19 b416a393cf2c21822144429a2924b352d5b587df-----X:\console/modules/file_server/contracts/b416a393cf2c21822144429a2924b352d5b587df.png
+Successfully deleted::2023-07-13 00:38:18 597edd2f9030442b6fd0a6583556aa50aedf130a-----X:\console/modules/file_server/contracts/597edd2f9030442b6fd0a6583556aa50aedf130a.jpg
+Successfully deleted::2023-07-13 00:38:24 ae6646b3e34d08218bf354c73ec7c982728d4dc8-----X:\console/modules/file_server/contracts/ae6646b3e34d08218bf354c73ec7c982728d4dc8.jpg
+error 71a648254f9a9f7d9f4b163672db4263fb4ea512.pdf access is false
+successfully uploaded 71a648254f9a9f7d9f4b163672db4263fb4ea512.pdf-----X:\console/modules/file_server/contracts/e41ec9f30a817fb852b2b72cd7578c25fbeaca7a.pdf
+successfully uploaded avatar2.png-----X:\console/modules/file_server/contracts/c02432b6beab57d54c5ad8c40d98bdc5e54e4a6c.png
+successfully uploaded avatar3.png-----X:\console/modules/file_server/contracts/617c93a649252ed01107908906ee66b7f6d722a9.png
+successfully uploaded avatar4.png-----X:\console/modules/file_server/contracts/53aa7f5b5097061e948117a13a9a1cf17d204bae.png
+successfully uploaded avatar5.png-----X:\console/modules/file_server/contracts/c57763db68562acba4db38752089624de06e3b2e.png
+Error::2023-07-15 01:59:23 X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf does not exist
+Successfully deleted::2023-07-15 02:07:13 617c93a649252ed01107908906ee66b7f6d722a9-----X:\console/modules/file_server/contracts/617c93a649252ed01107908906ee66b7f6d722a9.png
+Error::2023-07-15 02:07:20 X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf does not exist
+Error::2023-07-15 02:07:22 X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf does not exist
+Error::2023-07-15 02:07:24 X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf does not exist
+Error::2023-07-15 02:07:35 X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf does not exist
+Error::2023-07-15 02:07:43 X:\console/modules/file_server/contracts/09871e7b1e51304a5ca80c7c754fc0388aa1056a.pdf does not exist
+Error::2023-07-15 02:08:49 X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf does not exist
+Error::2023-07-15 02:08:50 X:\console/modules/file_server/contracts/707a5f334f0dff5e1650b355acda7c6388d3277f.pdf does not exist
+Successfully deleted::2023-08-15 19:25:50 3274c58e10e259ea32bc43ad7fbd5acbedca5a48-----X:\console/modules/file_server/contracts/3274c58e10e259ea32bc43ad7fbd5acbedca5a48.png
+successfully uploaded Corona-CorQSGHHT-A-En1.pdf-----X:\console/modules/file_server/contracts/ffc69b2d7637ba3462af02f285513e1ff277752e.pdf
+Error::2023-08-20 23:10:38 X:\console/modules/file_server/contracts/05fe8e3e2b94daccb1c0d3af7b97d42428f46a53.png does not exist
+Error::2023-08-20 23:10:40 X:\console/modules/file_server/contracts/05fe8e3e2b94daccb1c0d3af7b97d42428f46a53.png does not exist
+Error::2023-08-20 23:10:43 X:\console/modules/file_server/contracts/05fe8e3e2b94daccb1c0d3af7b97d42428f46a53.png does not exist
+Error::2023-08-20 23:10:49 X:\console/modules/file_server/contracts/49eee5b4309d7e2ce304c528bbab9393e2ddbdaa.png does not exist
+Error::2023-08-20 23:10:51 X:\console/modules/file_server/contracts/49eee5b4309d7e2ce304c528bbab9393e2ddbdaa.png does not exist
+Successfully deleted::2023-08-20 23:11:06 ffc69b2d7637ba3462af02f285513e1ff277752e-----X:\console/modules/file_server/contracts/ffc69b2d7637ba3462af02f285513e1ff277752e.pdf
+Successfully deleted::2023-08-20 23:11:14 e41ec9f30a817fb852b2b72cd7578c25fbeaca7a-----X:\console/modules/file_server/contracts/e41ec9f30a817fb852b2b72cd7578c25fbeaca7a.pdf

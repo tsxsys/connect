@@ -1,0 +1,6 @@
+#:: .htaccess file 
+
+
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "http://localhost"
+</IfModule>

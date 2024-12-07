@@ -1,0 +1,41 @@
+<!-- Role Users Modal -->
+<input id="usersButton" type="hidden" data-bs-toggle="modal" data-bs-target="#usersModal">
+<!-- Modal -->
+<div class="modal fade" id="usersModal" tabindex="-1" aria-labelledby="usersModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="usersModalTitle">Assign Users to Role</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-12 text-center">
+            <button type="button" id="btnAllRight" class="btn btn-primary-2 m-b-10" aria-label=">>">Add All</button>
+            <button type="button" id="btnRight" class="btn btn-primary-2 m-b-10" aria-label=">">Add Selected</button>
+            <button type="button" id="btnLeft" class="btn btn-primary-2 m-b-10" aria-label="<">Remove Selected</button>
+            <button type="button" id="btnAllLeft" class="btn btn-primary-2 m-b-10" aria-label="<<">Remove All</button>
+          </div>
+        </div>
+        <input type="hidden" id="role_id" />
+        <div class="subject-info-box-1">
+          <br>
+          <h4>Available</h4>
+          <select multiple="multiple" id='users-available' class="form-control __multi_select_box__"></select>
+        </div>
+        <div class="subject-info-arrows text-center ">
+          <span class="__info__arrows__"><i class="fas fa-exchange-alt"></i></span>
+        </div>
+        <div class="subject-info-box-2">
+          <br>
+          <h4>Selected</h4>
+          <select multiple="multiple" id='users-selected' class="form-control __multi_select_box__"></select>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" id="saveUsers" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>

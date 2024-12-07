@@ -1,0 +1,9 @@
+error  access not 
+errordoc_snap.jpg not moved
+successful uploaded bg_contract_approval.jpg-----X:\console/modules/file_server/contracts/0603632503cb6bd532ce65dcf39affd58c984d3e-1689026320.jpg
+successfully uploaded 17020470.jpg-----X:\console/modules/file_server/contracts/389e79de6d6c88f949acb6b31202725e8f858750-1689072547.jpg
+successfully uploaded 17020470.jpg-----X:\console/modules/file_server/contracts/0d93fb16c55afd888fea11a1836b4edfe2cb23f4.jpg
+successfully uploaded 3183197.jpg-----X:\console/modules/file_server/contracts/3fce675940340dbd89763949ee79461ef6890943.jpg
+successfully uploaded 17020470.jpg-----X:\console/modules/file_server/contracts/3c3f2ffe2ef4c74895fe739c35aa999b84f85414.jpg
+successfully uploaded 17020470.jpg-----X:\console/modules/file_server/contracts/e7d1746f1449557e6c6e7fce0a785b4ef97be843.jpg
+successfully uploaded 3183197.jpg-----X:\console/modules/file_server/contracts/7f5399e50489cb37f6fbd94144728ec5b1599dc4.jpg

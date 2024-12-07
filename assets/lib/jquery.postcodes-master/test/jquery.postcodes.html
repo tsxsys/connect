@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Ideal Postcodes jQuery Plugin Test Suite</title>
+  <script src="../libs/jquery-loader.js"></script>
+  <link rel="stylesheet" href="../libs/qunit/qunit.css" media="screen">
+  <script src="../libs/qunit/qunit.js"></script>
+  <script src="../src/jquery.postcodes.js"></script>
+  <script src="../libs/fake/fake-loader.js"></script>
+  <script src="setup.js"></script>
+  <script src="test/class_methods.js"></script>
+  <script src="test/plugin_basic.js"></script>
+  <script src="test/callbacks.js"></script>
+  <script src="test/address_search.js"></script>
+  <script src="test/tagging.js"></script>
+  <script src="test/organisation_names.js"></script>
+  <script src="test/custom_elements.js"></script>
+  <script>window._$ = jQuery.noConflict(true);</script>
+</head>
+<body>
+  <div id="qunit"></div>
+  <div id="qunit-fixture">
+    <div id="postcode_lookup_field"></div>
+
+    <label>First Line</label>
+    <input type="text" id="line_1"></input>
+
+    <label>Second Line</label>
+    <input type="text" id="line_2"></input>
+
+    <label>Third Line</label>
+    <input type="text" id="line_3"></input>
+
+    <label>Postal Town</label>
+    <input type="text" id="post_town"></input>
+
+    <label>Postcode</label>
+    <input type="text" id="postcode"></input>
+  </div>
+</body>
+</html>

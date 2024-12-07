@@ -1,0 +1,4 @@
+[AUTORUN]
+open=setup.exe
+label=Orion Installation
+icon=setup.exe,0

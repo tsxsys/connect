@@ -1,0 +1,77 @@
+<?php
+/*********************************************************************
+ * main.inc.php
+ *
+ * Master include file which must be included at the start of every file.
+ * The brain of the whole system. Don't monkey with it.
+ *
+ * Copyright (c)  2017-2022 SINCE TECH
+ * http://www.sincetech.co.uk/
+ *
+ * Released under the GNU General Public License WITHOUT ANY WARRANTY.
+ *
+ * $Id: $
+ **********************************************************************/
+
+#Disable direct access.
+if (!strcasecmp(basename($_SERVER['SCRIPT_NAME']), basename(__FILE__))) die('Access denied!');
+
+#Disable Globals if enabled....before loading config info
+// from PHP 5.4 register_globals has been removed.
+if (ini_get('register_globals')) {
+    ini_set('register_globals', 0);
+    foreach ($_REQUEST as $key => $val)
+        if (isset($$key))
+            unset($$key);
+}
+
+#Disable url fopen && url include
+ini_set('allow_url_fopen', 0);
+ini_set('allow_url_include', 0);
+#Disable session ids on url.
+ini_set('session.use_trans_sid', 0);
+#No cache
+ini_set('session.cache_limiter', 'nocache');
+#Cookies
+//ini_set('session.cookie_path','/katak-support/');
+
+#Error reporting...Good idea to ENABLE error reporting to a file. i.e display_errors should be set to false
+#Don't display errors in productions, but fatal errors.
+error_reporting(E_ERROR);
+//error_reporting(E_ALL); 
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 0);
+
+
+//Start the session BUT ONLY if a web request (http) host exists
+if ($_SERVER['HTTP_HOST']) {
+    session_start();
+}
+
+define('HTTPS_BASE_URL', 'httpS://localhost/Dropbox/www/Projects/connect/');
+define('ASSETS_URL', HTTPS_BASE_URL . 'assets/');
+define('VIEWS_URL', HTTPS_BASE_URL . 'views/');
+
+// Set Dir constants
+if (!defined('ROOT_PATH')) define('ROOT_PATH', './'); //root path. Damn directories
+define('ROOT_DIR', str_replace('\\\\', '/', realpath(dirname(__FILE__))) . '/'); #Get real path for root dir ---linux and windows
+define('INCLUDE_DIR', ROOT_DIR . 'include/'); //Change this if include is moved outside the web path.
+define('ASSETS_DIR', ROOT_DIR . 'assets/');
+
+define('MODULES_DIR', ROOT_DIR . 'modules/');
+define('CONFIG_DIR', ROOT_DIR . 'config/');
+define('VENDOR_DIR', ROOT_DIR . 'vendor/');
+define('VIEWS_DIR', ROOT_DIR . 'views/');
+define('PARTIALS_DIR', VIEWS_DIR . 'partials/');
+
+/*############## Do NOT monkey with anything else beyond this point UNLESS you really know what you are doing ##############*/
+
+/* 
+ * Current version.
+ * The first two digits indicate the database's version.
+ * The third digit represents minor changes that do not affect the database.
+*/
+define('THIS_VERSION', '1.2.1'); //Changes from version to version.
+
+
+?>
